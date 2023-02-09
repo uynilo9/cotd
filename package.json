@@ -1,0 +1,20 @@
+{
+  "name": "cotd",
+  "version": "1.0.0",
+  "description": "Import cotd to use `console.typing()` and `console.deleting()` in your source code",
+  "type": "module",
+  "main": "main.js",
+  "author": "uynilo9",
+  "license": "MIT",
+  "keywords": [],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": "git+https://github.com/uynilo9/cotd.git",
+  "bugs": {
+    "url": "https://github.com/uynilo9/cotd/issues"
+  },
+  "homepage": ""
+}
