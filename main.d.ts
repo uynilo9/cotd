@@ -4,8 +4,8 @@ declare interface Console {
      * 
      * ```js
      * await console.typing(
-     * 'Hello World',  // Anything you wanna make it be typing in console
-     * 375             // Typing speed. Unit: Millisecond (ms)
+     *     'Hello World',  // Anything you wanna make it be typing in console
+     *     375             // Typing speed. Unit: Millisecond (ms)
      * );
      * ```
      * 
