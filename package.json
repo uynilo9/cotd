@@ -6,7 +6,13 @@
   "main": "main.js",
   "author": "uynilo9",
   "license": "MIT",
-  "keywords": [],
+  "keywords": [
+    "cotd",
+    "async",
+    "console",
+    "typing",
+    "deleting"
+  ],
   "scripts": {
     "test": "node test.js"
   },
