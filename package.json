@@ -18,9 +18,12 @@
   },
   "dependencies": {},
   "devDependencies": {},
-  "repository": "git+https://github.com/uynilo9/cotd.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uynilo9/cotd.git"
+  },
   "bugs": {
     "url": "https://github.com/uynilo9/cotd/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/uynilo9#readme"
 }
