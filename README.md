@@ -48,7 +48,7 @@ await console.typing(
 );
 ```
 
-🎒 Use ```console.deleting``` in the source code:
+🎒 Use ```console.deleting()``` in the source code:
 
 ```js
 await console.deleting(
